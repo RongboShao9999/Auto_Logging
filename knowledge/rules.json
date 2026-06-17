@@ -1,0 +1,228 @@
+{
+  "curve_ranges": {
+    "AC": [180.0, 400.0],
+    "DTC": [40.0, 240.0],
+    "DTS": [70.0, 500.0],
+    "CAL": [18.0, 23.0],
+    "BS": [5.0, 18.0],
+    "CNL": [0.05, 0.40],
+    "NEU": [-0.05, 0.60],
+    "DEN": [1.8, 3.0],
+    "GR": [0.0, 200.0],
+    "PEF": [0.0, 15.0],
+    "RT": [0.01, 2000.0],
+    "RDEP": [0.01, 2000.0],
+    "RMED": [0.01, 2000.0],
+    "RXO": [0.01, 2000.0],
+    "SP": [-200.0, 200.0]
+  },
+  "parameter_ranges": {
+    "VSH": [0.0, 1.0],
+    "PHIF": [0.0, 0.45],
+    "POR": [0.0, 0.45],
+    "SW": [0.0, 1.0],
+    "SH": [0.0, 1.0]
+  },
+  "workflow_rules": [
+    {
+      "id": "raw_requires_qc",
+      "keywords": ["raw", "full-process", "interpretation", "qc", "quality", "preprocessing", "original", "logging", "yuan shi", "quan liu cheng", "ce jing"],
+      "text": "Raw well-log interpretation must start with data inventory, unit checks, depth ordering, sampling consistency, missing-value analysis, borehole-condition screening and range checks before any geological inference."
+    },
+    {
+      "id": "environment_before_interpretation",
+      "keywords": ["borehole", "caliper", "mud", "environment", "correction", "washout", "collapse", "jing yan", "kuo jing"],
+      "text": "Borehole and environmental effects must be evaluated before lithology, porosity and saturation interpretation; enlarged holes, mudcake, invasion and tool-specific corrections can invalidate direct curve-response rules."
+    },
+    {
+      "id": "depth_alignment_before_multicurve",
+      "keywords": ["depth", "align", "sampling", "multicurve", "correlation", "shen du", "dui qi"],
+      "text": "Multi-curve interpretation requires strictly monotonic depth, consistent sampling interval and depth alignment among curves; conflicted depths must be corrected or flagged before crossplot or model inference."
+    },
+    {
+      "id": "impute_extended_missing",
+      "keywords": ["missing", "imputation", "gap", "curve reconstruction", "bu quan", "que shi"],
+      "text": "Short isolated gaps may be interpolated after QC, but extended missing AC, CNL/NEU, density or resistivity intervals must be imputed with documented uncertainty or sent to expert review before dependent interpretation."
+    },
+    {
+      "id": "lithology_before_parameters",
+      "keywords": ["lithology", "porosity", "reservoir", "matrix", "rock type", "yan xing", "kong xi", "chu ceng"],
+      "text": "Lithology and matrix assumptions must be established before porosity and reservoir-parameter prediction because density, neutron and sonic porosity transforms depend on matrix and shale corrections."
+    },
+    {
+      "id": "porosity_before_saturation",
+      "keywords": ["porosity", "saturation", "archie", "water saturation", "rw", "kong xi du", "bao he du"],
+      "text": "Water saturation must not be interpreted from resistivity alone; it requires porosity, formation-water resistivity or an equivalent calibration, lithology/shale assessment and a selected saturation equation."
+    },
+    {
+      "id": "parameters_before_fluid",
+      "keywords": ["fluid", "oil", "gas", "water", "invasion", "resistivity", "liu ti", "you", "shui", "qi"],
+      "text": "Fluid identification must integrate porosity, water saturation, deep/shallow resistivity behavior, invasion evidence and lithology; no single log response is sufficient for a final fluid conclusion."
+    },
+    {
+      "id": "report_requires_provenance",
+      "keywords": ["report", "audit", "provenance", "standard", "review", "bao gao", "shen he"],
+      "text": "The final report must preserve input provenance, curve availability, preprocessing actions, selected interpretation equations or models, physical validation results, abnormal intervals and expert-review flags."
+    }
+  ],
+  "interpretation_constraints": {
+    "quality_control": [
+      {
+        "id": "qc_curve_inventory",
+        "applies_to": ["all"],
+        "constraint": "Record which essential curves are available before planning. Lithology, porosity, saturation and fluid tasks must expose degraded confidence when their preferred curves are absent."
+      },
+      {
+        "id": "qc_caliper_screening",
+        "applies_to": ["CAL", "BS", "DEN", "CNL", "NEU"],
+        "constraint": "Large CAL-BS separation indicates washout or borehole enlargement; density and neutron porosity in those intervals should be corrected, down-weighted or reviewed."
+      },
+      {
+        "id": "qc_resistivity_positive",
+        "applies_to": ["RT", "RDEP", "RMED", "RXO"],
+        "constraint": "Resistivity curves must be positive before logarithmic scaling, saturation calculation or invasion analysis."
+      },
+      {
+        "id": "qc_sp_baseline",
+        "applies_to": ["SP"],
+        "constraint": "SP interpretation requires shale baseline and sand-line context; absolute SP magnitude alone should not be treated as a fluid or permeability conclusion."
+      }
+    ],
+    "lithology": [
+      {
+        "id": "lithology_gr_shale_indicator",
+        "preferred_inputs": ["GR"],
+        "constraint": "High gamma ray generally indicates shale content, while low gamma ray suggests cleaner formations; radioactive sands, feldspar or potassium-rich minerals require cross-checks."
+      },
+      {
+        "id": "lithology_density_neutron_pef_crosscheck",
+        "preferred_inputs": ["DEN", "CNL", "NEU", "PEF"],
+        "constraint": "Density-neutron response and photoelectric factor should be used to separate sandstone, limestone and dolomite when available; matrix-sensitive curves must not be interpreted without lithology context."
+      },
+      {
+        "id": "lithology_sp_permeability_indicator",
+        "preferred_inputs": ["SP", "GR"],
+        "constraint": "SP deflection can support identification of permeable beds, but it depends on mud filtrate and formation-water salinity and must be combined with GR and resistivity."
+      }
+    ],
+    "porosity": [
+      {
+        "id": "porosity_density_matrix_dependency",
+        "preferred_inputs": ["DEN", "LITHOLOGY"],
+        "constraint": "Density porosity requires matrix density and fluid density assumptions selected from lithology and borehole conditions."
+      },
+      {
+        "id": "porosity_neutron_shale_gas_effect",
+        "preferred_inputs": ["CNL", "NEU", "GR", "DEN"],
+        "constraint": "Neutron porosity is affected by hydrogen index, shale-bound water and gas; density-neutron crossover or disagreement must trigger gas/shale/environment review."
+      },
+      {
+        "id": "porosity_sonic_compaction_effect",
+        "preferred_inputs": ["AC", "DTC", "LITHOLOGY"],
+        "constraint": "Sonic porosity needs matrix transit time and may require compaction correction; it should be cross-validated against density or neutron porosity where possible."
+      },
+      {
+        "id": "porosity_multilog_reconciliation",
+        "preferred_inputs": ["DEN", "CNL", "NEU", "AC", "DTC", "GR"],
+        "constraint": "Final porosity should reconcile available density, neutron and sonic estimates after shale and borehole corrections, not blindly average inconsistent curves."
+      }
+    ],
+    "shale_volume": [
+      {
+        "id": "vsh_gr_index_bounds",
+        "preferred_inputs": ["GR"],
+        "constraint": "GR-derived shale volume must be bounded to 0-1 and should use local clean-sand and shale baselines rather than global minima and maxima when calibration data exist."
+      },
+      {
+        "id": "vsh_crosscheck",
+        "preferred_inputs": ["GR", "SP", "CNL", "DEN"],
+        "constraint": "Shale volume inferred from GR should be cross-checked with SP and neutron-density behavior in intervals where radioactive minerals or borehole effects are suspected."
+      }
+    ],
+    "saturation": [
+      {
+        "id": "archie_clean_formation_only",
+        "preferred_inputs": ["RT", "RDEP", "PHIF", "RW", "VSH"],
+        "constraint": "Archie saturation is appropriate for relatively clean formations; high VSH or conductive clay requires a shaly-sand model or expert review."
+      },
+      {
+        "id": "saturation_requires_calibration",
+        "preferred_inputs": ["RT", "RDEP", "PHIF", "RW"],
+        "constraint": "Saturation output should expose the assumed cementation exponent, saturation exponent, tortuosity factor and formation-water resistivity when those parameters are not calibrated."
+      },
+      {
+        "id": "saturation_physical_balance",
+        "preferred_inputs": ["SW", "SH"],
+        "constraint": "Water and hydrocarbon saturations must remain in 0-1 and should not exceed a total pore-volume fraction of 1 after rounding."
+      }
+    ],
+    "fluid_identification": [
+      {
+        "id": "fluid_deep_shallow_resistivity",
+        "preferred_inputs": ["RT", "RDEP", "RMED", "RXO"],
+        "constraint": "Deep/shallow resistivity separation can support invasion and movable-fluid interpretation, but it must be checked against porosity, saturation and mud-filtrate context."
+      },
+      {
+        "id": "fluid_low_porosity_guard",
+        "preferred_inputs": ["PHIF", "SW", "RT"],
+        "constraint": "Intervals with very low effective porosity should not be classified as productive fluid layers solely because resistivity is high."
+      },
+      {
+        "id": "fluid_gas_effect_review",
+        "preferred_inputs": ["DEN", "CNL", "NEU", "RT"],
+        "constraint": "Potential gas effect indicated by density-neutron separation, high resistivity and low neutron response should be flagged separately from oil-water classification."
+      }
+    ]
+  },
+  "dependency_constraints": [
+    {
+      "id": "qc_precedes_all_models",
+      "before": "quality_control",
+      "after": ["preprocess", "impute", "lithology", "reservoir_parameters", "fluid", "report"]
+    },
+    {
+      "id": "preprocess_precedes_interpretation",
+      "before": "preprocess",
+      "after": ["impute", "lithology", "reservoir_parameters", "fluid"]
+    },
+    {
+      "id": "lithology_constrains_parameters",
+      "before": "lithology",
+      "after": ["reservoir_parameters"]
+    },
+    {
+      "id": "parameters_constrain_fluid",
+      "before": "reservoir_parameters",
+      "after": ["fluid"]
+    },
+    {
+      "id": "audit_precedes_report",
+      "before": ["quality_control", "preprocess", "impute", "lithology", "reservoir_parameters", "fluid"],
+      "after": "report"
+    }
+  ],
+  "exception_policy": {
+    "minor": {
+      "examples": ["single-point missing value", "small isolated outlier", "transient component timeout"],
+      "actions": ["interpolate_or_clip", "retry", "continue_with_logged_warning"]
+    },
+    "moderate": {
+      "examples": ["extended missing interval", "conflicting lithology indicators", "porosity or saturation near physical bounds", "borehole enlargement affecting porosity curves"],
+      "actions": ["revise_workflow", "select_backup_model", "lower_confidence", "flag_interval"]
+    },
+    "critical": {
+      "examples": ["non-monotonic depth after correction", "core component unavailable", "repeated physical inconsistency", "negative resistivity after preprocessing"],
+      "actions": ["stop_autonomous_execution", "request_expert_review"]
+    }
+  },
+  "thresholds": {
+    "max_outlier_ratio": 0.05,
+    "max_depth_deviation": 0.5,
+    "extended_missing_points": 40,
+    "low_porosity_cutoff": 0.06,
+    "high_shale_volume_cutoff": 0.35,
+    "high_water_saturation_cutoff": 0.75,
+    "washout_caliper_excess": 1.5,
+    "minimum_layer_points": 5
+  }
+}
