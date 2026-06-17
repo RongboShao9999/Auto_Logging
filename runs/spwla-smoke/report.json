@@ -1,0 +1,40 @@
+{
+  "standard": "SY/T 5945-2004 测井解释报告编写规范",
+  "metadata": {
+    "well_id": "SPWLA-100",
+    "report_name": "测井解释报告",
+    "standard": "SY/T 5945-2004 测井解释报告编写规范",
+    "oilfield": null,
+    "block": null,
+    "well_type": null,
+    "operator": null,
+    "contractor": null,
+    "target_interval": null,
+    "logging_date": null,
+    "report_date": "2026-06-17",
+    "interpreter": null,
+    "reviewer": null,
+    "approver": null,
+    "coordinate_system": null,
+    "datum": null,
+    "remarks": null
+  },
+  "missing_required_fields": [
+    "oilfield",
+    "well_type",
+    "operator",
+    "contractor",
+    "target_interval",
+    "interpreter",
+    "reviewer"
+  ],
+  "sections": [
+    "基本信息",
+    "资料概况与质量评价",
+    "资料处理与解释方法",
+    "解释成果",
+    "综合评价与结论",
+    "建议",
+    "附件及成果文件"
+  ]
+}
