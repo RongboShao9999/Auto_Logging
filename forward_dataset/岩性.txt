@@ -1,0 +1,2111 @@
+#DEPTH	lithology	lithology_CNN	CASE	Fluid_KNN
+1500	Shale	Shale	Non-Reservoir	Non-Reservoir
+1500.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1500.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1500.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1500.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1500.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1500.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1500.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1501	Shale	Shale	Non-Reservoir	Non-Reservoir
+1501.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1501.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1501.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1501.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1501.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1501.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1501.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1502	Shale	Shale	Non-Reservoir	Non-Reservoir
+1502.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1502.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1502.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1502.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1502.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1502.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1502.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1503	Shale	Shale	Non-Reservoir	Non-Reservoir
+1503.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1503.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1503.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1503.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1503.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1503.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1503.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1504	Shale	Shale	Non-Reservoir	Non-Reservoir
+1504.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1504.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1504.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1504.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1504.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1504.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1504.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1505	Shale	Shale	Non-Reservoir	Non-Reservoir
+1505.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1505.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1505.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1505.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1505.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1505.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1505.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1506	Shale	Shale	Non-Reservoir	Non-Reservoir
+1506.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1506.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1506.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1506.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1506.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1506.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1506.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1507	Shale	Shale	Non-Reservoir	Non-Reservoir
+1507.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1507.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1507.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1507.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1507.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1507.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1507.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1508	Shale	Shale	Non-Reservoir	Non-Reservoir
+1508.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1508.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1508.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1508.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1508.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1508.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1508.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1509	Shale	Shale	Non-Reservoir	Non-Reservoir
+1509.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1509.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1509.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1509.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1509.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1509.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1509.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1510	Shale	Shale	Non-Reservoir	Non-Reservoir
+1510.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1510.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1510.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1510.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1510.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1510.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1510.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1511	Shale	Shale	Non-Reservoir	Non-Reservoir
+1511.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1511.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1511.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1511.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1511.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1511.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1511.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1512	Shale	Shale	Non-Reservoir	Non-Reservoir
+1512.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1512.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1512.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1512.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1512.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1512.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1512.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1513	Shale	Shale	Non-Reservoir	Non-Reservoir
+1513.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1513.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1513.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1513.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1513.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1513.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1513.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1514	Shale	Shale	Non-Reservoir	Non-Reservoir
+1514.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1514.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1514.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1514.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1514.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1514.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1514.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1515	Shale	Shale	Non-Reservoir	Non-Reservoir
+1515.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1515.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1515.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1515.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1515.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1515.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1515.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1516	Shale	Shale	Non-Reservoir	Non-Reservoir
+1516.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1516.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1516.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1516.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1516.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1516.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1516.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1517	Shale	Shale	Non-Reservoir	Non-Reservoir
+1517.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1517.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1517.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1517.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1517.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1517.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1517.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1518	Shale	Shale	Non-Reservoir	Non-Reservoir
+1518.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1518.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1518.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1518.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1518.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1518.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1518.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1519	Shale	Shale	Non-Reservoir	Non-Reservoir
+1519.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1519.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1519.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1519.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1519.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1519.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1519.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1520	Shale	Shale	Non-Reservoir	Non-Reservoir
+1520.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1520.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1520.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1520.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1520.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1520.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1520.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1521	Shale	Shale	Non-Reservoir	Non-Reservoir
+1521.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1521.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1521.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1521.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1521.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1521.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1521.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1522	Shale	Shale	Non-Reservoir	Non-Reservoir
+1522.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1522.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1522.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1522.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1522.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1522.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1522.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1523	Shale	Shale	Non-Reservoir	Non-Reservoir
+1523.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1523.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1523.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1523.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1523.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1523.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1523.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1524	Shale	Shale	Non-Reservoir	Non-Reservoir
+1524.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1524.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1524.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1524.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1524.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1524.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1524.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1525	Shale	Shale	Non-Reservoir	Non-Reservoir
+1525.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1525.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1525.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1525.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1525.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1525.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1525.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1526	Shale	Shale	Non-Reservoir	Non-Reservoir
+1526.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1526.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1526.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1526.5	Shale	Shale	Non-Reservoir	Oil-Bearing Water Layer
+1526.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1526.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1526.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1527	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1527.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1527.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1527.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1527.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1527.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1527.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1527.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1528	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1528.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1528.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1528.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1528.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1528.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1528.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1528.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1529	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1529.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1529.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1529.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1529.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1529.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1529.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1529.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1530	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1530.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1530.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1530.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1530.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1530.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1530.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1530.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1531	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1531.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1531.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1531.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1531.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1531.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1531.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1531.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1532	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1532.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1532.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1532.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1532.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1532.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1532.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1532.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1533	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1533.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1533.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1533.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1533.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1533.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1533.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1533.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1534	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1534.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1534.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1534.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1534.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1534.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1534.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1534.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1535	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1535.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1535.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1535.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1535.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1535.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1535.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1535.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1536	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1536.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1536.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1536.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1536.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1536.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1536.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1536.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1537	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1537.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1537.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1537.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1537.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1537.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1537.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1537.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1538	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1538.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1538.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1538.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1538.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1538.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1538.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1538.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1539	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1539.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1539.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1539.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1539.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1539.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1539.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1539.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1540	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1540.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1540.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1540.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1540.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1540.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1540.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1540.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1541	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1541.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1541.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1541.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1541.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Water Layer
+1541.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1541.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1541.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1542	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1542.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1542.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1542.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1542.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1542.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1542.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1542.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1543	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1543.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1543.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1543.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1543.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1543.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1543.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1543.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1544	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1544.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1544.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1544.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1544.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1544.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1544.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1544.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1545	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1545.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1545.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1545.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1545.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1545.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1545.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1545.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1546	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1546.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1546.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1546.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1546.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1546.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1546.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1546.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1547	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1547.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1547.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1547.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1547.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1547.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1547.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1547.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1548	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1548.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1548.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1548.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1548.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1548.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1548.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1548.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1549	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1549.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1549.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1549.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1549.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1549.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1549.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1549.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1550	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1550.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1550.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1550.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1550.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1550.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1550.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1550.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1551	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1551.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1551.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1551.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1551.5	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1551.625	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1551.75	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1551.875	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1552	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1552.125	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1552.25	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Oil-Water Layer
+1552.375	Fine Sandstone	Fine Sandstone	Oil-Water Layer	Water Layer
+1552.5	Siltstone	Fine Sandstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1552.625	Siltstone	Shale	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1552.75	Siltstone	Shale	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1552.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1553	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1553.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1553.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1553.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1553.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1553.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1553.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1553.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1554	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1554.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1554.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1554.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1554.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1554.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1554.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1554.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1555	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1555.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1555.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1555.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1555.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1555.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1555.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1555.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1556	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1556.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1556.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1556.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1556.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1556.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1556.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1556.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1557	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1557.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1557.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1557.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1557.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1557.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1557.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1557.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Non-Reservoir
+1558	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1558.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1558.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1558.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1558.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1558.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1558.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1558.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1559	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1559.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1559.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1559.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1559.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1559.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1559.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1559.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1560	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1560.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1560.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1560.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1560.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1560.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1560.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1560.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1561	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1561.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1561.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1561.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1561.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1561.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1561.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1561.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1562	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1562.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1562.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1562.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1562.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1562.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1562.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1562.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1563	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1563.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1563.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1563.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1563.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1563.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1563.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1563.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1564	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1564.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1564.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1564.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1564.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1564.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1564.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1564.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1565	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1565.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1565.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1565.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1565.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1565.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1565.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1565.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1566	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1566.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1566.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1566.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1566.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1566.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1566.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1566.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1567	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1567.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1567.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1567.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1567.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1567.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1567.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1567.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1568	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1568.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1568.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1568.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1568.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1568.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1568.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1568.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1569	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1569.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1569.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1569.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1569.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1569.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1569.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1569.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1570	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1570.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1570.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1570.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1570.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1570.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1570.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1570.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1571	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1571.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1571.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1571.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1571.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1571.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1571.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1571.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1572	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1572.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1572.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1572.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1572.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1572.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1572.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1572.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1573	Shale	Shale	Non-Reservoir	Non-Reservoir
+1573.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1573.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1573.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1573.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1573.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1573.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1573.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1574	Shale	Shale	Non-Reservoir	Non-Reservoir
+1574.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1574.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1574.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1574.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1574.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1574.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1574.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1575	Shale	Shale	Non-Reservoir	Non-Reservoir
+1575.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1575.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1575.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1575.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1575.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1575.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1575.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1576	Shale	Shale	Non-Reservoir	Non-Reservoir
+1576.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1576.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1576.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1576.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1576.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1576.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1576.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1577	Shale	Shale	Non-Reservoir	Non-Reservoir
+1577.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1577.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1577.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1577.5	Shale	Shale	Non-Reservoir	Water Layer
+1577.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1577.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1577.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1578	Shale	Shale	Non-Reservoir	Non-Reservoir
+1578.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1578.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1578.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1578.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1578.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1578.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1578.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1579	Shale	Shale	Non-Reservoir	Non-Reservoir
+1579.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1579.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1579.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1579.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1579.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1579.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1579.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1580	Shale	Shale	Non-Reservoir	Non-Reservoir
+1580.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1580.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1580.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1580.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1580.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1580.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1580.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1581	Shale	Shale	Non-Reservoir	Non-Reservoir
+1581.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1581.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1581.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1581.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1581.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1581.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1581.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1582	Shale	Shale	Non-Reservoir	Non-Reservoir
+1582.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1582.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1582.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1582.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1582.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1582.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1582.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1583	Shale	Shale	Non-Reservoir	Non-Reservoir
+1583.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1583.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1583.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1583.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1583.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1583.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1583.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1584	Shale	Shale	Non-Reservoir	Non-Reservoir
+1584.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1584.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1584.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1584.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1584.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1584.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1584.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1585	Shale	Shale	Non-Reservoir	Non-Reservoir
+1585.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1585.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1585.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1585.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1585.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1585.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1585.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1586	Shale	Shale	Non-Reservoir	Non-Reservoir
+1586.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1586.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1586.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1586.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1586.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1586.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1586.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1587	Shale	Shale	Non-Reservoir	Non-Reservoir
+1587.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1587.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1587.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1587.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1587.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1587.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1587.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1588	Shale	Shale	Non-Reservoir	Non-Reservoir
+1588.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1588.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1588.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1588.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1588.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1588.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1588.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1589	Shale	Shale	Non-Reservoir	Non-Reservoir
+1589.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1589.25	Shale	Shale	Non-Reservoir	Oil-Bearing Water Layer
+1589.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1589.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1589.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1589.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1589.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1590	Shale	Shale	Non-Reservoir	Non-Reservoir
+1590.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1590.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1590.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1590.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1590.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1590.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1590.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1591	Shale	Shale	Non-Reservoir	Non-Reservoir
+1591.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1591.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1591.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1591.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1591.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1591.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1591.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1592	Shale	Shale	Non-Reservoir	Non-Reservoir
+1592.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1592.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1592.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1592.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1592.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1592.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1592.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1593	Shale	Shale	Non-Reservoir	Non-Reservoir
+1593.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1593.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1593.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1593.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1593.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1593.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1593.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1594	Shale	Shale	Non-Reservoir	Non-Reservoir
+1594.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1594.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1594.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1594.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1594.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1594.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1594.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1595	Shale	Shale	Non-Reservoir	Non-Reservoir
+1595.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1595.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1595.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1595.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1595.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1595.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1595.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1596	Shale	Shale	Non-Reservoir	Non-Reservoir
+1596.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1596.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1596.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1596.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1596.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1596.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1596.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1597	Shale	Shale	Non-Reservoir	Non-Reservoir
+1597.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1597.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1597.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1597.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1597.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1597.75	Shale	Siltstone	Non-Reservoir	Non-Reservoir
+1597.875	Shale	Siltstone	Non-Reservoir	Non-Reservoir
+1598	Shale	Siltstone	Non-Reservoir	Non-Reservoir
+1598.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1598.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1598.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1598.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1598.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1598.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1598.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1599	Shale	Shale	Non-Reservoir	Non-Reservoir
+1599.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1599.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1599.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1599.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1599.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1599.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1599.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1600	Shale	Shale	Non-Reservoir	Non-Reservoir
+1600.125	Shale	Siltstone	Non-Reservoir	Non-Reservoir
+1600.25	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1600.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1600.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1600.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1600.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1600.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1601	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1601.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1601.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1601.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1601.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1601.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1601.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1601.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1602	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1602.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1602.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1602.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1602.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1602.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1602.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1602.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1603	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1603.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1603.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1603.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1603.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1603.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1603.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1603.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1604	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1604.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1604.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1604.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1604.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1604.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1604.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1604.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1605	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1605.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1605.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1605.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1605.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1605.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1605.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1605.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1606	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1606.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1606.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1606.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1606.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1606.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1606.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1606.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1607	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1607.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1607.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1607.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1607.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1607.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1607.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1607.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1608	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1608.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1608.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1608.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1608.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1608.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1608.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1608.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1609	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1609.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1609.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1609.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1609.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1609.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1609.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1609.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1610	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1610.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1610.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1610.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1610.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1610.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1610.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1610.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1611	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1611.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1611.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1611.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1611.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1611.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1611.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1611.875	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1612	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1612.125	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1612.25	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1612.375	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1612.5	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1612.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1612.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1612.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1613	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1613.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1613.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1613.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1613.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1613.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1613.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1613.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1614	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1614.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1614.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1614.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1614.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1614.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1614.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1614.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1615	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1615.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1615.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1615.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1615.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1615.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1615.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1615.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1616	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1616.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1616.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1616.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1616.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1616.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1616.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1616.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1617	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1617.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1617.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1617.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1617.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1617.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1617.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1617.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1618	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1618.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1618.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1618.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1618.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1618.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1618.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1618.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1619	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1619.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1619.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1619.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1619.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1619.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1619.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1619.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1620	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1620.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1620.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1620.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1620.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1620.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1620.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1620.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1621	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1621.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1621.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1621.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1621.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1621.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1621.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1621.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1622	Shale	Shale	Non-Reservoir	Non-Reservoir
+1622.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1622.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1622.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1622.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1622.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1622.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1622.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1623	Shale	Shale	Non-Reservoir	Non-Reservoir
+1623.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1623.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1623.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1623.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1623.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1623.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1623.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1624	Shale	Shale	Non-Reservoir	Non-Reservoir
+1624.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1624.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1624.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1624.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1624.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1624.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1624.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1625.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1625.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1625.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1625.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1625.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1625.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1625.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1626	Shale	Shale	Non-Reservoir	Non-Reservoir
+1626.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1626.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1626.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1626.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1626.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1626.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1626.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1627	Shale	Shale	Non-Reservoir	Non-Reservoir
+1627.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1627.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1627.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1627.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1627.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1627.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1627.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1628	Shale	Shale	Non-Reservoir	Non-Reservoir
+1628.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1628.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1628.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1628.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1628.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1628.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1628.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1629	Shale	Shale	Non-Reservoir	Non-Reservoir
+1629.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1629.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1629.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1629.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1629.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1629.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1629.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1630	Shale	Shale	Non-Reservoir	Non-Reservoir
+1630.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1630.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1630.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1630.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1630.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1630.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1630.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1631	Shale	Shale	Non-Reservoir	Non-Reservoir
+1631.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1631.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1631.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1631.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1631.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1631.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1631.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1632	Shale	Shale	Non-Reservoir	Non-Reservoir
+1632.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1632.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1632.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1632.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1632.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1632.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1632.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1633	Shale	Shale	Non-Reservoir	Non-Reservoir
+1633.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1633.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1633.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1633.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1633.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1633.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1633.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1634	Shale	Shale	Non-Reservoir	Non-Reservoir
+1634.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1634.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1634.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1634.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1634.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1634.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1634.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1635	Shale	Shale	Non-Reservoir	Non-Reservoir
+1635.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1635.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1635.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1635.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1635.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1635.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1635.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1636	Shale	Shale	Non-Reservoir	Non-Reservoir
+1636.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1636.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1636.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1636.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1636.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1636.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1636.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1637	Shale	Shale	Non-Reservoir	Non-Reservoir
+1637.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1637.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1637.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1637.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1637.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1637.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1637.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1638	Shale	Shale	Non-Reservoir	Non-Reservoir
+1638.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1638.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1638.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1638.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1638.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1638.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1638.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1639	Shale	Shale	Non-Reservoir	Non-Reservoir
+1639.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1639.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1639.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1639.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1639.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1639.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1639.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1640	Shale	Shale	Non-Reservoir	Non-Reservoir
+1640.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1640.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1640.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1640.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1640.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1640.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1640.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1641	Shale	Shale	Non-Reservoir	Non-Reservoir
+1641.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1641.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1641.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1641.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1641.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1641.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1641.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1642	Shale	Shale	Non-Reservoir	Non-Reservoir
+1642.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1642.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1642.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1642.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1642.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1642.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1642.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1643	Shale	Shale	Non-Reservoir	Non-Reservoir
+1643.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1643.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1643.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1643.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1643.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1643.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1643.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1644	Shale	Shale	Non-Reservoir	Non-Reservoir
+1644.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1644.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1644.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1644.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1644.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1644.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1644.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1645	Shale	Shale	Non-Reservoir	Non-Reservoir
+1645.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1645.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1645.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1645.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1645.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1645.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1645.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1646	Shale	Shale	Non-Reservoir	Non-Reservoir
+1646.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1646.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1646.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1646.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1646.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1646.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1646.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1647	Shale	Shale	Non-Reservoir	Non-Reservoir
+1647.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1647.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1647.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1647.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1647.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1647.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1647.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1648	Shale	Shale	Non-Reservoir	Non-Reservoir
+1648.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1648.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1648.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1648.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1648.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1648.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1648.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1649	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1649.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1649.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1649.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1649.5	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1649.625	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1649.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1649.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1650	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1650.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1650.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1650.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1650.5	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1650.625	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1650.75	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1650.875	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1651	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1651.125	Fine Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1651.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1651.375	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1651.5	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1651.625	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1651.75	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1651.875	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1652	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1652.125	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1652.25	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1652.375	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1652.5	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1652.625	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1652.75	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1652.875	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1653	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1653.125	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1653.25	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1653.375	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1653.5	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1653.625	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1653.75	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1653.875	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1654	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1654.125	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1654.25	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1654.375	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1654.5	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1654.625	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1654.75	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1654.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1655	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1655.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1655.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1655.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1655.5	Fine Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1655.625	Fine Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1655.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1655.875	Fine Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1656	Fine Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1656.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1656.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1656.375	Fine Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1656.5	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1656.625	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1656.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1656.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1657	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1657.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1657.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1657.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1657.5	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1657.625	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1657.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1657.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1658	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1658.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1658.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1658.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1658.5	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1658.625	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1658.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1658.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1659	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1659.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1659.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1659.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1659.5	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1659.625	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1659.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1659.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1660	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1660.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1660.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1660.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1660.5	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1660.625	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1660.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1660.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1661	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1661.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1661.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1661.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1661.5	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1661.625	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1661.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1661.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1662	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1662.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1662.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1662.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1662.5	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1662.625	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1662.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1662.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1663	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1663.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1663.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1663.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1663.5	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1663.625	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1663.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1663.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1664	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1664.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1664.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1664.375	Fine Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1664.5	Fine Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1664.625	Fine Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1664.75	Fine Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1664.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1665	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1665.125	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1665.25	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1665.375	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1665.5	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1665.625	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1665.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1665.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1666	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1666.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1666.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1666.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1666.5	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1666.625	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1666.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1666.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1667	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1667.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1667.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1667.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1667.5	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1667.625	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1667.75	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1667.875	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1668	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1668.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1668.25	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1668.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1668.5	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1668.625	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1668.75	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1668.875	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1669	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1669.125	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1669.25	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1669.375	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1669.5	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1669.625	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1669.75	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1669.875	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1670	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1670.125	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1670.25	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1670.375	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1670.5	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1670.625	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1670.75	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1670.875	Medium Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1671	Fine Sandstone	Medium Sandstone	Oil Layer	Oil Layer
+1671.125	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1671.25	Medium Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1671.375	Fine Sandstone	Fine Sandstone	Oil Layer	Oil Layer
+1671.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1671.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1671.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1671.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1672	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1672.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1672.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1672.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Water Layer
+1672.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1672.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1672.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1672.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1673	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1673.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1673.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1673.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1673.5	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1673.625	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1673.75	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1673.875	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1674	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1674.125	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1674.25	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1674.375	Siltstone	Siltstone	Oil-Bearing Water Layer	Oil-Bearing Water Layer
+1674.5	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1674.625	Fine Sandstone	Siltstone	Water Layer	Oil-Water Layer
+1674.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1674.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1675	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1675.125	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1675.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1675.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1675.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1675.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1675.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1675.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1676	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1676.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1676.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1676.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1676.5	Siltstone	Fine Sandstone	Water Layer	Water Layer
+1676.625	Siltstone	Fine Sandstone	Water Layer	Water Layer
+1676.75	Siltstone	Fine Sandstone	Water Layer	Water Layer
+1676.875	Siltstone	Siltstone	Water Layer	Water Layer
+1677	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1677.125	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1677.25	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1677.375	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1677.5	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1677.625	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1677.75	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1677.875	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1678	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1678.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1678.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1678.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1678.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1678.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1678.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1678.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1679	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1679.125	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1679.25	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1679.375	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1679.5	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1679.625	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1679.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1679.875	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1680	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1680.125	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1680.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1680.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1680.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1680.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1680.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1680.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1681	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1681.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1681.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1681.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1681.5	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1681.625	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1681.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1681.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1682	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1682.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1682.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1682.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1682.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1682.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1682.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1682.875	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1683	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1683.125	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1683.25	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1683.375	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1683.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1683.625	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1683.75	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1683.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1684	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1684.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1684.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1684.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1684.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1684.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1684.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1684.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1685	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1685.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1685.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1685.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1685.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1685.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1685.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1685.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1686	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1686.125	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1686.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1686.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1686.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1686.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1686.75	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1686.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1687	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1687.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1687.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1687.375	Siltstone	Fine Sandstone	Water Layer	Water Layer
+1687.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1687.625	Siltstone	Fine Sandstone	Water Layer	Water Layer
+1687.75	Siltstone	Fine Sandstone	Water Layer	Water Layer
+1687.875	Siltstone	Fine Sandstone	Water Layer	Water Layer
+1688	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1688.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1688.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1688.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1688.5	Siltstone	Fine Sandstone	Water Layer	Water Layer
+1688.625	Siltstone	Fine Sandstone	Water Layer	Water Layer
+1688.75	Siltstone	Fine Sandstone	Water Layer	Water Layer
+1688.875	Siltstone	Fine Sandstone	Water Layer	Water Layer
+1689	Fine Sandstone	Siltstone	Water Layer	Water Layer
+1689.125	Siltstone	Siltstone	Water Layer	Water Layer
+1689.25	Siltstone	Siltstone	Water Layer	Water Layer
+1689.375	Siltstone	Siltstone	Water Layer	Water Layer
+1689.5	Siltstone	Siltstone	Water Layer	Water Layer
+1689.625	Siltstone	Siltstone	Water Layer	Water Layer
+1689.75	Siltstone	Siltstone	Water Layer	Water Layer
+1689.875	Siltstone	Siltstone	Water Layer	Water Layer
+1690	Siltstone	Siltstone	Water Layer	Water Layer
+1690.125	Siltstone	Siltstone	Water Layer	Water Layer
+1690.25	Siltstone	Siltstone	Water Layer	Water Layer
+1690.375	Siltstone	Siltstone	Water Layer	Water Layer
+1690.5	Siltstone	Siltstone	Water Layer	Water Layer
+1690.625	Siltstone	Siltstone	Water Layer	Water Layer
+1690.75	Siltstone	Siltstone	Water Layer	Water Layer
+1690.875	Siltstone	Siltstone	Water Layer	Water Layer
+1691	Siltstone	Siltstone	Water Layer	Water Layer
+1691.125	Siltstone	Siltstone	Water Layer	Water Layer
+1691.25	Siltstone	Siltstone	Water Layer	Water Layer
+1691.375	Siltstone	Siltstone	Water Layer	Water Layer
+1691.5	Siltstone	Siltstone	Water Layer	Water Layer
+1691.625	Siltstone	Siltstone	Water Layer	Water Layer
+1691.75	Siltstone	Siltstone	Water Layer	Water Layer
+1691.875	Siltstone	Siltstone	Water Layer	Water Layer
+1692	Siltstone	Siltstone	Water Layer	Water Layer
+1692.125	Siltstone	Siltstone	Water Layer	Water Layer
+1692.25	Siltstone	Siltstone	Water Layer	Water Layer
+1692.375	Siltstone	Siltstone	Water Layer	Water Layer
+1692.5	Siltstone	Siltstone	Water Layer	Water Layer
+1692.625	Siltstone	Siltstone	Water Layer	Water Layer
+1692.75	Siltstone	Siltstone	Water Layer	Water Layer
+1692.875	Siltstone	Siltstone	Water Layer	Water Layer
+1693	Siltstone	Siltstone	Water Layer	Water Layer
+1693.125	Siltstone	Siltstone	Water Layer	Water Layer
+1693.25	Siltstone	Siltstone	Water Layer	Water Layer
+1693.375	Siltstone	Siltstone	Water Layer	Water Layer
+1693.5	Siltstone	Siltstone	Water Layer	Water Layer
+1693.625	Siltstone	Siltstone	Water Layer	Water Layer
+1693.75	Siltstone	Siltstone	Water Layer	Water Layer
+1693.875	Siltstone	Siltstone	Water Layer	Water Layer
+1694	Siltstone	Siltstone	Water Layer	Water Layer
+1694.125	Siltstone	Siltstone	Water Layer	Water Layer
+1694.25	Siltstone	Siltstone	Water Layer	Water Layer
+1694.375	Siltstone	Siltstone	Water Layer	Water Layer
+1694.5	Siltstone	Siltstone	Water Layer	Water Layer
+1694.625	Siltstone	Siltstone	Water Layer	Water Layer
+1694.75	Siltstone	Siltstone	Water Layer	Water Layer
+1694.875	Siltstone	Siltstone	Water Layer	Water Layer
+1695	Siltstone	Siltstone	Water Layer	Water Layer
+1695.125	Siltstone	Siltstone	Water Layer	Water Layer
+1695.25	Siltstone	Siltstone	Water Layer	Water Layer
+1695.375	Siltstone	Siltstone	Water Layer	Water Layer
+1695.5	Siltstone	Siltstone	Water Layer	Water Layer
+1695.625	Siltstone	Siltstone	Water Layer	Water Layer
+1695.75	Siltstone	Siltstone	Water Layer	Water Layer
+1695.875	Siltstone	Siltstone	Water Layer	Water Layer
+1696	Siltstone	Siltstone	Water Layer	Water Layer
+1696.125	Siltstone	Siltstone	Water Layer	Water Layer
+1696.25	Siltstone	Siltstone	Water Layer	Water Layer
+1696.375	Siltstone	Siltstone	Water Layer	Water Layer
+1696.5	Siltstone	Siltstone	Water Layer	Water Layer
+1696.625	Siltstone	Siltstone	Water Layer	Water Layer
+1696.75	Siltstone	Siltstone	Water Layer	Water Layer
+1696.875	Siltstone	Siltstone	Water Layer	Water Layer
+1697	Siltstone	Siltstone	Water Layer	Water Layer
+1697.125	Siltstone	Siltstone	Water Layer	Water Layer
+1697.25	Siltstone	Siltstone	Water Layer	Water Layer
+1697.375	Siltstone	Siltstone	Water Layer	Water Layer
+1697.5	Siltstone	Siltstone	Water Layer	Water Layer
+1697.625	Siltstone	Siltstone	Water Layer	Water Layer
+1697.75	Siltstone	Siltstone	Water Layer	Water Layer
+1697.875	Siltstone	Siltstone	Water Layer	Water Layer
+1698	Siltstone	Siltstone	Water Layer	Water Layer
+1698.125	Siltstone	Siltstone	Water Layer	Water Layer
+1698.25	Siltstone	Siltstone	Water Layer	Water Layer
+1698.375	Siltstone	Siltstone	Water Layer	Water Layer
+1698.5	Siltstone	Siltstone	Water Layer	Water Layer
+1698.625	Siltstone	Siltstone	Water Layer	Water Layer
+1698.75	Siltstone	Siltstone	Water Layer	Water Layer
+1698.875	Siltstone	Siltstone	Water Layer	Water Layer
+1699	Siltstone	Siltstone	Water Layer	Water Layer
+1699.125	Siltstone	Siltstone	Water Layer	Water Layer
+1699.25	Siltstone	Siltstone	Water Layer	Water Layer
+1699.375	Siltstone	Siltstone	Water Layer	Water Layer
+1699.5	Siltstone	Siltstone	Water Layer	Water Layer
+1699.625	Siltstone	Siltstone	Water Layer	Water Layer
+1699.75	Siltstone	Siltstone	Water Layer	Water Layer
+1699.875	Siltstone	Siltstone	Water Layer	Water Layer
+1700	Siltstone	Siltstone	Water Layer	Water Layer
+1700.125	Siltstone	Siltstone	Water Layer	Water Layer
+1700.25	Siltstone	Siltstone	Water Layer	Water Layer
+1700.375	Siltstone	Siltstone	Water Layer	Water Layer
+1700.5	Siltstone	Siltstone	Water Layer	Water Layer
+1700.625	Siltstone	Siltstone	Water Layer	Water Layer
+1700.75	Siltstone	Siltstone	Water Layer	Water Layer
+1700.875	Siltstone	Siltstone	Water Layer	Water Layer
+1701	Siltstone	Siltstone	Water Layer	Water Layer
+1701.125	Siltstone	Siltstone	Water Layer	Water Layer
+1701.25	Siltstone	Siltstone	Water Layer	Water Layer
+1701.375	Siltstone	Siltstone	Water Layer	Water Layer
+1701.5	Siltstone	Siltstone	Water Layer	Water Layer
+1701.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1701.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1701.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1702	Shale	Shale	Non-Reservoir	Non-Reservoir
+1702.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1702.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1702.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1702.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1702.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1702.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1702.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1703	Shale	Shale	Non-Reservoir	Non-Reservoir
+1703.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1703.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1703.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1703.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1703.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1703.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1703.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1704	Shale	Shale	Non-Reservoir	Non-Reservoir
+1704.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1704.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1704.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1704.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1704.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1704.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1704.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1705	Shale	Shale	Non-Reservoir	Non-Reservoir
+1705.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1705.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1705.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1705.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1705.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1705.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1705.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1706	Shale	Shale	Non-Reservoir	Non-Reservoir
+1706.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1706.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1706.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1706.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1706.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1706.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1706.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1707	Shale	Shale	Non-Reservoir	Non-Reservoir
+1707.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1707.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1707.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1707.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1707.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1707.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1707.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1708	Shale	Shale	Non-Reservoir	Non-Reservoir
+1708.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1708.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1708.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1708.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1708.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1708.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1708.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1709	Shale	Shale	Non-Reservoir	Non-Reservoir
+1709.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1709.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1709.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1709.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1709.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1709.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1709.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1710	Shale	Shale	Non-Reservoir	Non-Reservoir
+1710.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1710.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1710.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1710.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1710.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1710.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1710.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1711	Shale	Shale	Non-Reservoir	Non-Reservoir
+1711.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1711.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1711.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1711.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1711.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1711.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1711.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1712	Shale	Shale	Non-Reservoir	Non-Reservoir
+1712.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1712.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1712.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1712.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1712.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1712.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1712.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1713	Shale	Shale	Non-Reservoir	Non-Reservoir
+1713.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1713.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1713.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1713.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1713.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1713.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1713.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1714	Shale	Shale	Non-Reservoir	Non-Reservoir
+1714.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1714.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1714.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1714.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1714.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1714.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1714.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1715	Shale	Shale	Non-Reservoir	Non-Reservoir
+1715.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1715.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1715.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1715.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1715.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1715.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1715.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1716	Shale	Shale	Non-Reservoir	Non-Reservoir
+1716.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1716.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1716.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1716.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1716.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1716.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1716.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1717	Shale	Shale	Non-Reservoir	Non-Reservoir
+1717.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1717.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1717.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1717.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1717.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1717.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1717.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1718	Shale	Shale	Non-Reservoir	Non-Reservoir
+1718.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1718.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1718.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1718.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1718.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1718.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1718.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1719	Shale	Shale	Non-Reservoir	Non-Reservoir
+1719.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1719.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1719.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1719.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1719.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1719.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1719.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1720	Shale	Shale	Non-Reservoir	Non-Reservoir
+1720.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1720.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1720.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1720.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1720.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1720.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1720.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1721	Shale	Shale	Non-Reservoir	Non-Reservoir
+1721.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1721.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1721.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1721.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1721.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1721.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1721.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1722	Shale	Shale	Non-Reservoir	Non-Reservoir
+1722.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1722.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1722.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1722.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1722.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1722.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1722.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1723	Shale	Shale	Non-Reservoir	Non-Reservoir
+1723.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1723.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1723.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1723.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1723.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1723.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1723.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1724	Shale	Shale	Non-Reservoir	Non-Reservoir
+1724.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1724.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1724.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1724.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1724.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1724.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1724.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1725	Shale	Shale	Non-Reservoir	Non-Reservoir
+1725.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1725.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1725.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1725.5	Fine Sandstone	Fine Sandstone	Water Layer	Oil-Bearing Water Layer
+1725.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1725.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1725.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1726	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1726.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1726.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1726.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1726.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1726.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1726.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1726.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1727	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1727.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1727.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1727.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1727.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1727.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1727.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1727.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1728	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1728.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1728.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1728.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1728.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1728.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1728.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1728.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1729	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1729.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1729.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1729.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1729.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1729.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1729.75	Medium Sandstone	Medium Sandstone	Water Layer	Water Layer
+1729.875	Fine Sandstone	Medium Sandstone	Water Layer	Water Layer
+1730	Medium Sandstone	Medium Sandstone	Water Layer	Water Layer
+1730.125	Medium Sandstone	Fine Sandstone	Water Layer	Water Layer
+1730.25	Medium Sandstone	Fine Sandstone	Water Layer	Water Layer
+1730.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1730.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1730.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1730.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1730.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1731	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1731.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1731.25	Medium Sandstone	Fine Sandstone	Water Layer	Water Layer
+1731.375	Medium Sandstone	Fine Sandstone	Water Layer	Water Layer
+1731.5	Medium Sandstone	Fine Sandstone	Water Layer	Water Layer
+1731.625	Medium Sandstone	Fine Sandstone	Water Layer	Water Layer
+1731.75	Medium Sandstone	Fine Sandstone	Water Layer	Water Layer
+1731.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1732	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1732.125	Fine Sandstone	Medium Sandstone	Water Layer	Water Layer
+1732.25	Medium Sandstone	Medium Sandstone	Water Layer	Water Layer
+1732.375	Medium Sandstone	Medium Sandstone	Water Layer	Water Layer
+1732.5	Medium Sandstone	Medium Sandstone	Water Layer	Water Layer
+1732.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1732.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1732.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1733	Medium Sandstone	Fine Sandstone	Water Layer	Water Layer
+1733.125	Medium Sandstone	Fine Sandstone	Water Layer	Water Layer
+1733.25	Medium Sandstone	Fine Sandstone	Water Layer	Water Layer
+1733.375	Medium Sandstone	Fine Sandstone	Water Layer	Water Layer
+1733.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1733.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1733.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1733.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1734	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1734.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1734.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1734.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1734.5	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1734.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1734.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1734.875	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1735	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1735.125	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1735.25	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1735.375	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1735.5	Fine Sandstone	Fine Sandstone	Water Layer	Dry Layer
+1735.625	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1735.75	Fine Sandstone	Fine Sandstone	Water Layer	Water Layer
+1735.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1736	Shale	Shale	Non-Reservoir	Oil-Bearing Water Layer
+1736.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1736.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1736.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1736.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1736.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1736.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1736.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1737	Shale	Shale	Non-Reservoir	Non-Reservoir
+1737.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1737.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1737.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1737.5	Shale	Siltstone	Non-Reservoir	Non-Reservoir
+1737.625	Shale	Siltstone	Non-Reservoir	Non-Reservoir
+1737.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1737.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1738	Shale	Shale	Non-Reservoir	Non-Reservoir
+1738.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1738.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1738.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1738.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1738.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1738.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1738.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1739	Shale	Shale	Non-Reservoir	Non-Reservoir
+1739.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1739.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1739.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1739.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1739.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1739.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1739.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1740	Shale	Shale	Non-Reservoir	Non-Reservoir
+1740.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1740.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1740.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1740.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1740.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1740.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1740.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1741	Shale	Shale	Non-Reservoir	Non-Reservoir
+1741.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1741.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1741.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1741.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1741.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1741.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1741.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1742	Shale	Shale	Non-Reservoir	Non-Reservoir
+1742.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1742.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1742.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1742.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1742.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1742.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1742.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1743	Shale	Shale	Non-Reservoir	Non-Reservoir
+1743.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1743.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1743.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1743.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1743.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1743.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1743.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1744	Shale	Shale	Non-Reservoir	Non-Reservoir
+1744.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1744.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1744.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1744.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1744.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1744.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1744.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1745	Shale	Shale	Non-Reservoir	Non-Reservoir
+1745.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1745.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1745.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1745.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1745.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1745.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1745.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1746	Shale	Shale	Non-Reservoir	Non-Reservoir
+1746.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1746.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1746.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1746.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1746.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1746.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1746.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1747	Shale	Shale	Non-Reservoir	Non-Reservoir
+1747.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1747.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1747.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1747.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1747.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1747.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1747.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1748	Shale	Shale	Non-Reservoir	Non-Reservoir
+1748.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1748.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1748.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1748.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1748.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1748.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1748.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1749	Shale	Shale	Non-Reservoir	Non-Reservoir
+1749.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1749.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1749.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1749.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1749.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1749.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1749.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1750	Shale	Shale	Non-Reservoir	Non-Reservoir
+1750.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1750.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1750.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1750.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1750.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1750.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1750.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1751	Shale	Shale	Non-Reservoir	Non-Reservoir
+1751.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1751.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1751.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1751.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1751.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1751.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1751.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1752	Shale	Shale	Non-Reservoir	Non-Reservoir
+1752.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1752.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1752.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1752.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1752.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1752.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1752.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1753	Shale	Shale	Non-Reservoir	Non-Reservoir
+1753.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1753.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1753.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1753.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1753.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1753.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1753.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1754	Shale	Shale	Non-Reservoir	Non-Reservoir
+1754.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1754.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1754.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1754.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1754.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1754.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1754.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1755	Shale	Shale	Non-Reservoir	Non-Reservoir
+1755.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1755.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1755.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1755.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1755.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1755.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1755.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1756	Shale	Shale	Non-Reservoir	Non-Reservoir
+1756.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1756.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1756.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1756.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1756.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1756.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1756.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1757	Shale	Shale	Non-Reservoir	Non-Reservoir
+1757.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1757.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1757.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1757.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1757.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1757.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1757.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1758	Shale	Shale	Non-Reservoir	Non-Reservoir
+1758.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1758.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1758.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1758.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1758.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1758.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1758.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1759	Shale	Shale	Non-Reservoir	Non-Reservoir
+1759.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1759.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1759.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1759.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1759.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1759.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1759.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1760	Shale	Shale	Non-Reservoir	Non-Reservoir
+1760.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1760.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1760.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1760.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1760.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1760.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1760.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1761	Shale	Shale	Non-Reservoir	Non-Reservoir
+1761.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1761.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1761.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1761.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1761.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1761.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1761.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1762	Shale	Shale	Non-Reservoir	Non-Reservoir
+1762.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1762.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1762.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1762.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1762.625	Shale	Shale	Non-Reservoir	Non-Reservoir
+1762.75	Shale	Shale	Non-Reservoir	Non-Reservoir
+1762.875	Shale	Shale	Non-Reservoir	Non-Reservoir
+1763	Shale	Shale	Non-Reservoir	Non-Reservoir
+1763.125	Shale	Shale	Non-Reservoir	Non-Reservoir
+1763.25	Shale	Shale	Non-Reservoir	Non-Reservoir
+1763.375	Shale	Shale	Non-Reservoir	Non-Reservoir
+1763.5	Shale	Shale	Non-Reservoir	Non-Reservoir
+1763.625	Shale	Shale	Non-Reservoir	Non-Reservoir

@@ -1,0 +1,15 @@
+{
+  "oilfield": "示例油田",
+  "block": "示例区块",
+  "well_type": "评价井",
+  "operator": "示例作业单位",
+  "contractor": "示例测井单位",
+  "target_interval": "2500.000-2520.000 m",
+  "logging_date": "2026-06-15",
+  "interpreter": "解释员",
+  "reviewer": "审核员",
+  "approver": "批准人",
+  "coordinate_system": "待项目确认",
+  "datum": "待项目确认",
+  "remarks": "示例元数据，不应用于正式生产报告。"
+}
